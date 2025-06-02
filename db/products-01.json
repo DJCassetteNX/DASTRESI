@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "جامپ استارتر 11000 میلی آمپری راوپاور مدل RavPower PB1225",
+      "image": "../../src/images/products-01/products01.jpg",
+      "originalPrice": "7,790,000",
+      "discount": "1,000,000",
+      "finalPrice": "6,790,000"
+    },
+    {
+      "id": 2,
+      "title": "ماشین اصلاح خط زن اورایمو مدل Oraimo OTR-280",
+      "image": "../../src/images/products-01/products02.jpg",
+      "originalPrice": "3,290,000",
+      "discount": "1,000,000",
+      "finalPrice": "2,290,000"
+    },
+    {
+      "id": 3,
+      "title": "رابط برق USB دار مک دودو 30 وات مدل Mcdodo CH-062",
+      "image": "../../src/images/products-01/products03.jpg",
+      "originalPrice": "1,885,000",
+      "discount": "400,000",
+      "finalPrice": "1,485,000"
+    },
+    {
+      "id": 4,
+      "title": "تبدیل یونیورسال مسافرتی الدینیو مدل Ldnio Z4",
+      "image": "../../src/images/products-01/products04.jpg",
+      "originalPrice": "320,000",
+      "discount": "132,000",
+      "finalPrice": "188,000"
+    },
+    {
+      "id": 5,
+      "title": "تبدیل OTG آیفونی مک دودو مدل Mcdodo Otg 8600",
+      "image": "../../src/images/products-01/products05.jpg",
+      "originalPrice": "335,000",
+      "discount": "100,000",
+      "finalPrice": "235,000"
+    }
+  ]
+}

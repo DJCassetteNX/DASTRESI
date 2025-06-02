@@ -1,0 +1,44 @@
+{
+  "slides": [
+    {
+      "id": 1,
+      "title": "select-1",
+      "image": "./src/images/selection/selection-01.png"
+    },
+    {
+      "id": 2,
+      "title": "select-2",
+      "image": "./src/images/selection/selection-02.png"
+    },
+    {
+      "id": 3,
+      "title": "select-3",
+      "image": "./src/images/selection/selection-03.png"
+    },
+    {
+      "id": 4,
+      "title": "select-4",
+      "image": "./src/images/selection/selection-04.png"
+    },
+    {
+      "id": 5,
+      "title": "select-5",
+      "image": "./src/images/selection/selection-05.png"
+    },
+    {
+      "id": 6,
+      "title": "select-6",
+      "image": "./src/images/selection/selection-06.png"
+    },
+    {
+      "id": 7,
+      "title": "select-7",
+      "image": "./src/images/selection/selection-07.png"
+    },
+    {
+      "id": 8,
+      "title": "select-8",
+      "image": "./src/images/selection/selection-08.png"
+    }
+  ]
+}
