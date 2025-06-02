@@ -1,0 +1,114 @@
+{
+  "products": [
+    {
+      " id": 1,
+      "title": "جامپ استاتر و پمپ باد گرین مدل Green Lion GN12VJUSTBK",
+      "color": "#000000",
+      "image": "../../src/images/bestseller/image01.jpg",
+      "originalPrice": "",
+      "category": "انواع گجت های جذاب",
+      "finalPrice": "8,490,000",
+      "notAvailable": false
+    },
+    {
+      " id": 2,
+      "title": "پمپ باد گرین INFLATOR مدل Green Lion GNTYIRNFBK",
+      "color": "#D26129",
+      "image": "../../src/images/bestseller/image02.jpg",
+      "originalPrice": "2,600,000",
+      "category": "انواع گجت های جذاب",
+      "finalPrice": "1,920,000",
+      "notAvailable": false
+    },
+    {
+      " id": 3,
+      "title": "پاوربانک وایرلس شارژ سولار 20000 میلی آمپر 20 واتی گرین مدل Green Lion GNSOL5PM20BK",
+      "color": "#4c504e",
+      "image": "../../src/images/bestseller/image03.jpg",
+      "originalPrice": "",
+      "category": "پاوربانک و جامپ استارتر",
+      "finalPrice": "3,800,000",
+      "notAvailable": false
+    },
+    {
+      " id": 4,
+      "title": "پاوربانک 10000 میلی آمپری و شارژر دیواری 20 واتی پرودو مدل Porodo PD-PBFCH051",
+      "color": "#525252",
+      "image": "../../src/images/bestseller/image04.jpg",
+      "originalPrice": "1,820,000",
+      "category": "پاوربانک و جامپ استارتر",
+      "finalPrice": "1,847,000",
+      "notAvailable": false
+    },
+    {
+      " id": 5,
+      "title": "دوربین ثبت وقایع 4K گرین لاین Green Lion Mini Action Camera GNMIACM20BK",
+      "color": "#303136",
+      "image": "../../src/images/bestseller/image05.jpg",
+      "originalPrice": "5,700,000",
+      "category": "انواع گجت های جذاب",
+      "finalPrice": "5,200,000",
+      "notAvailable": false
+    },
+    {
+      " id": 6,
+      "title": "شارژر دیواری 67 واتی گان با کابل تایپ سی مک دودو مدل Mcdodo CH-410",
+      "color": "#EE9579",
+      "image": "../../src/images/bestseller/image06.jpg",
+      "originalPrice": "2,354,000",
+      "category": "شارژر دیواری",
+      "finalPrice": "1,999,000",
+      "notAvailable": false
+    },
+    {
+      " id": 7,
+      "title": "رابط برق USB دار تایمر دار 2500 واتی پاورولوژی مدل Powerology PWCUQC029",
+      "color": "#303136",
+      "image": "../../src/images/bestseller/image07.jpg",
+      "originalPrice": "3,950,000",
+      "category": "رابط برق و USB",
+      "finalPrice": "3,650,000",
+      "notAvailable": false
+    },
+    {
+      " id": 8,
+      "title": "شارژر دیواری 25 وات هادرون مدل Hadron C1011",
+      "color": "#E5E1E1",
+      "image": "../../src/images/bestseller/image08.jpg",
+      "originalPrice": "625,000",
+      "category": "شارژر دیواری",
+      "finalPrice": "595,000",
+      "notAvailable": false
+    },
+    {
+      " id": 9,
+      "title": "باتری نیم قلم 10 تایی شیائومی مدل Xiaomi ZI7",
+      "color": "",
+      "image": "../../src/images/bestseller/image09.jpg",
+      "originalPrice": "",
+      "category": "باطری آلکالاین",
+      "finalPrice": "249,000",
+      "notAvailable": false
+    },
+    {
+      " id": 10,
+      "title": "باتری قلمی 10تایی شیائومی مدل Xiaomi ZI5",
+      "color": "",
+      "image": "../../src/images/bestseller/image10.jpg",
+      "originalPrice": "",
+      "category": "باطری آلکالاین",
+      "finalPrice": "249,000",
+      "notAvailable": false
+    },
+    {
+      " id": 11,
+      "title": "کیبورد بلوتوثی مافی مدل Mofii Phoenix",
+      "color": "#393939",
+      "image": "../../src/images/bestseller/image11.jpg",
+      "originalPrice": "2,590,000",
+      "category": "ماوس و کیبورد و پدموس",
+      "finalPrice": "2,390,000",
+      "notAvailable": false
+    }
+  ]
+}

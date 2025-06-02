@@ -1,0 +1,39 @@
+{
+  "slides": [
+    {
+      "id": 1,
+      "title": "brand-1",
+      "image": "./src/images/brands/brands1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "brand-2",
+      "image": "./src/images/brands/brands2.jpg"
+    },
+    {
+      "id": 3,
+      "title": "brand-3",
+      "image": "./src/images/brands/brands3.jpg"
+    },
+    {
+      "id": 4,
+      "title": "brand-4",
+      "image": "./src/images/brands/brands4.jpg"
+    },
+    {
+      "id": 5,
+      "title": "brand-5",
+      "image": "./src/images/brands/brands5.jpg"
+    },
+    {
+      "id": 6,
+      "title": "brand-6",
+      "image": "./src/images/brands/brands6.jpg"
+    },
+    {
+      "id": 7,
+      "title": "brand-7",
+      "image": "./src/images/brands/brands7.jpg"
+    }
+  ]
+}

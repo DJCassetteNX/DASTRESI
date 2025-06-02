@@ -1,0 +1,24 @@
+{
+  "slides": [
+    {
+      "id": 1,
+      "title": "slide-1",
+      "image": "./src/images/Slider-1/banner-01.jpg"
+    },
+    {
+      "id": 2,
+      "title": "slide-2",
+      "image": "./src/images/Slider-1/banner-02.png "
+    },
+    {
+      "id": 3,
+      "title": "slide-3",
+      "image": "./src/images/Slider-1/banner-03.png"
+    },
+    {
+      "id": 4,
+      "title": "slide-4",
+      "image": "./src/images/Slider-1/banner-04.png"
+    }
+  ]
+}
